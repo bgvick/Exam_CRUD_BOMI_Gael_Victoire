@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849817074774",
+    "firebase_url": "https://examcrud-default-rtdb.firebaseio.com",
+    "project_id": "examcrud",
+    "storage_bucket": "examcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849817074774:android:98e7ebc975585deadd8ff7",
+        "android_client_info": {
+          "package_name": "com.BomiGael.exam_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849817074774-g7q27aqcmod3vfib3kaphjl3n318kv2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2km0oc02jELUgbkT0w_wBsbI4YtVCSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849817074774-g7q27aqcmod3vfib3kaphjl3n318kv2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
